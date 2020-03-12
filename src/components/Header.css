@@ -1,0 +1,18 @@
+.header {
+    background-color: #35A5DA;
+    height: 70px;
+    width: 100vw;
+    margin-top: 0px;
+    margin-bottom: 100px;
+	display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	justify-content: center;
+	align-items: flex-start;
+	align-content: stretch;
+}
+
+.home {
+    font-size: 20px;
+    padding-left: 50px;
+}

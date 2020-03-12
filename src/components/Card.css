@@ -1,0 +1,62 @@
+.text-container {
+	display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	justify-content: flex-start;
+	align-items: baseline;
+	align-content: stretch;
+}
+.num {
+    font-size: 22px;
+    margin-right: 6px;
+    margin-top: 6px;
+    margin-left: auto;
+    
+}
+.name {
+    font-size: 26px;
+    padding-left: 40px;
+    padding-top: 0px;
+    text-decoration: underline;
+    text-decoration-color: #35A5DA;
+}
+
+.from {
+    font-size: 16px;
+    padding-left: 40px;
+    padding-top: 16px;
+}
+
+.job {
+    font-size: 16px;
+    padding-left: 40px;
+    padding-top: 0px;
+}
+.employer {
+    font-size: 16px;
+    padding-left: 40px;
+    padding-top: 0px;
+}
+
+.fav-mov {
+    font-size: 16px;
+    padding-left: 40px;
+    padding-top: 20px;
+}
+
+.mov-1 {
+    font-size: 16px;
+    padding-left: 80px;
+    padding-top: 4px;
+}
+.mov-2 {
+    font-size: 16px;
+    padding-left: 80px;
+    padding-top: 4px;
+}
+.mov-3 {
+    font-size: 16px;
+    padding-left: 80px;
+    padding-top: 4px;
+}
+
